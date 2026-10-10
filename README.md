@@ -8,7 +8,7 @@ Prepare source-grounded marketing content and campaign reports with Claude Cowor
 | Programme | Non-WSQ |
 | Duration | 2 days / 15 hours (9:30am – 5:30pm, 7.5 instructional hours per day) |
 | Registration | [View course details and register](https://www.tertiarycourses.com.sg/claude-code-for-digital-marketing.html) |
-| Package | Version 1.0 |
+| Package | Version 2.0 |
 
 ## About the course
 
@@ -50,7 +50,7 @@ Each folder contains its own mock data, assets, prompts PDF and detailed activit
 
 ## Public package and usage
 
-- Slide deck: [PowerPoint](courseware/Claude%20Cowork%20for%20Digital%20Marketing-v1.0.pptx) and [PDF](courseware/Claude%20Cowork%20for%20Digital%20Marketing-v1.0.pdf).
+- Slide deck: [PowerPoint](courseware/Claude%20Cowork%20for%20Digital%20Marketing-v2.0.pptx) and [PDF](courseware/Claude%20Cowork%20for%20Digital%20Marketing-v2.0.pdf).
 - Learner Guide: [DOCX](courseware/LG-Claude%20Cowork%20for%20Digital%20Marketing.docx), [PDF](courseware/LG-Claude%20Cowork%20for%20Digital%20Marketing.pdf) and [Markdown](courseware/LG-Claude%20Cowork%20for%20Digital%20Marketing.md), including detailed procedures and verification checks.
 - Lesson Plan: [DOCX](courseware/LP-Claude%20Cowork%20for%20Digital%20Marketing.docx) and [PDF](courseware/LP-Claude%20Cowork%20for%20Digital%20Marketing.pdf), with the daily schedule and slide references.
 - Fourteen self-contained activity folders with synthetic inputs and original assets.
