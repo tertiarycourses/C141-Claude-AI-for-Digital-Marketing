@@ -1,64 +1,75 @@
-# Claude Cowork for Digital Marketing
+# Claude AI for Digital Marketing
 
-Prepare source-grounded marketing content and campaign reports with Claude Cowork, reusable Skills and tested integration workflows.
+Build an AI marketing team with Claude Cowork and Claude Code, then test, troubleshoot and version it through real campaigns — personas, a blog article, a lead magnet, social posts, a newsletter and landing page, a YouTube explainer and a weekly growth report.
 
 | Course detail | Information |
-| --- | --- |
+|---|---|
 | Course code | `C141` |
 | Programme | Non-WSQ |
-| Duration | 2 days / 15 hours (9:30am – 5:30pm, 7.5 instructional hours per day) |
-| Registration | [View course details and register](https://www.tertiarycourses.com.sg/claude-code-for-digital-marketing.html) |
-| Package | Version 2.0 |
+| Duration | 2 days, 15 hours (9:30am – 5:30pm each day) |
+| Edition | Claude desktop app (Claude Cowork and Claude Code) |
+| Registration | [View course details and register](https://www.tertiarycourses.com.sg/claude-ai-for-digital-marketing.html) |
 
 ## About the course
 
-Learn to assess compatibility between marketing components, use Claude Cowork to prepare repeatable marketing outputs, and test data and content before recommending changes. Activities use a fictional Singapore reusable-bottle retailer, synthetic campaign data and original assets.
+This hands-on course equips digital marketers to use Claude as an integrated marketing workspace: connecting Claude Cowork and Claude Code to marketing tools through MCP connectors, building reusable Claude Skills, and checking that every component works together before it is trusted with real campaigns.
 
-The course combines marketing work with integration evidence: file and connector boundaries, accepted schemas, source provenance, metric calculations, consent checks, error isolation and versioned changes. Live connectors require an authorised sandbox and account permissions; local synthetic-file exercises remain available.
+One fictitious business runs through every lab: **Horizon Wealth Planning**, a Singapore financial-planning firm with a website and no marketing team. You build its AI marketing team — a Marketing Team Lead and five specialists (Growth Strategist, Content Creator, Creative Designer, Website Designer and Growth Analyst) — with instructions, skills and least-privilege connectors, assess the compatibility of every component, then run campaigns that test each integration. Financial content is regulated, so a person approves every piece before it goes out.
 
 ## Learning outcomes
 
-- Conduct compatibility checks on Claude Cowork interfaces and use integration tools to connect selected marketing components.
-- Test marketing components and interfaces, identify integration errors and troubleshoot them.
-- Propose changes through versioning and apply integration best practices.
+By the end of the two days you will be able to:
+
+- **LO1** — Conduct a compatibility assessment of Claude Cowork interfaces and use essential tools to integrate selected marketing components.
+- **LO2** — Test the integrated marketing components and interfaces, identify integration errors and conduct basic troubleshooting.
+- **LO3** — Propose changes to the integration plan from observed results, through versioning, and apply integration best practices.
 
 ## Topics covered
 
-- Claude Cowork workspaces and MCP connector compatibility.
-- Reusable marketing Skills, grounded campaign briefs, tracking taxonomy, SEO, lifecycle email and social content.
-- Campaign metric reconciliation, data quality, experiment interpretation and regression tests.
-- Approval, versioning, rollback and an integrated evidence portfolio.
+1. Claude Cowork Components, Compatibility and Integration
+2. Testing Marketing Integrations and Troubleshooting Errors
+3. Versioning, Change Proposals and Integration Best Practices
 
-## Activities
+## Labs
 
-Each folder contains its own mock data, assets, prompts PDF and detailed activity guide. Procedures are in the Learner Guide and activity guides.
+Lab index and scenario: [labs/README.md](labs/README.md) · [labs/SCENARIO.md](labs/SCENARIO.md). Copy-ready prompts: [Prompts page](https://tertiarycourses.github.io/C141-Claude-AI-for-Digital-Marketing/prompts/claude/).
 
-- [Activity 01 — Workspace compatibility and integration plan](activities/activity-01-workspace-compatibility/README.md)
-- [Activity 02 — Brand context and grounded campaign brief](activities/activity-02-brand-context/README.md)
-- [Activity 03 — Connector and MCP compatibility design](activities/activity-03-mcp-compatibility/README.md)
-- [Activity 04 — Campaign taxonomy and tracking contract](activities/activity-04-tracking-contract/README.md)
-- [Activity 05 — Reusable marketing Skill contract](activities/activity-05-marketing-skill/README.md)
-- [Activity 06 — Paid campaign metric reconciliation](activities/activity-06-metric-reconciliation/README.md)
-- [Activity 07 — Marketing data quality and error diagnosis](activities/activity-07-data-quality/README.md)
-- [Activity 08 — SEO content brief and evidence audit](activities/activity-08-seo-brief/README.md)
-- [Activity 09 — Lifecycle email segmentation and consent](activities/activity-09-lifecycle-email/README.md)
-- [Activity 10 — Social content repurposing and asset QA](activities/activity-10-social-assets/README.md)
-- [Activity 11 — Experiment design and performance evidence](activities/activity-11-experiment-design/README.md)
-- [Activity 12 — Integration regression tests and recovery](activities/activity-12-regression-recovery/README.md)
-- [Activity 13 — Versioning, approval and change control](activities/activity-13-version-control/README.md)
-- [Activity 14 — Integrated campaign evidence portfolio](activities/activity-14-campaign-portfolio/README.md)
+| # | Lab | Day |
+|---|---|---|
+| 01 | [Build Your Marketing Agent Team](labs/lab-01-studio-and-website/README.md) | 1 |
+| 02 | [Form the Team: Instructions for Each Agent](labs/lab-02-agent-instructions/README.md) | 1 |
+| 03 | [Give Each Agent Its Skills](labs/lab-03-agent-skills/README.md) | 1 |
+| 04 | [Connect the Tools and Check Compatibility](labs/lab-04-agent-connectors/README.md) | 1 |
+| 05 | [Campaign 1: Research to Storyboard, with Subagents](labs/lab-05-campaign-1-research-to-storyboard/README.md) | 1 |
+| 06 | [Growth Analyst: Personas from Evidence](labs/lab-06-personas-from-evidence/README.md) | 1 |
+| 07 | [Growth Analyst and Strategist: Cadence and Calendar](labs/lab-07-cadence-and-calendar/README.md) | 1 |
+| 08 | [Content Creator: A Quick Blog Article](labs/lab-08-blog-article/README.md) | 1 |
+| 09 | [The Lead Magnet: a Checklist and Its Welcome Emails](labs/lab-09-lead-magnet/README.md) | 2 |
+| 10 | [Campaign 2: Social Media Posts (Demo)](labs/lab-10-campaign-2-social-week/README.md) | 2 |
+| 11 | [Campaign 3: Newsletter and a Landing Page](labs/lab-11-campaign-3-newsletter-and-landing-page/README.md) | 2 |
+| 12 | [Campaign 4: The YouTube Explainer](labs/lab-12-campaign-4-youtube-explainer/README.md) | 2 |
+| 13 | [Campaign 5: Always On — the Weekly Growth Report](labs/lab-13-campaign-5-weekly-growth-report/README.md) | 2 |
+| 14 | [Measure, Version and Write the Team Playbook](labs/lab-14-team-playbook/README.md) | 2 |
+| 15 | [Agent Teams: A Strategy Debate and a QA Loop](labs/lab-15-agent-teams-debate-and-qa-loop/README.md) | 2 |
 
-## Public package and usage
+The ready-made working folder used from Lab 1 to Lab 15 is [labs/horizon-studio/](labs/horizon-studio/). You need the Claude desktop app on a Pro plan or above.
 
-- Slide deck: [PowerPoint](courseware/Claude%20Cowork%20for%20Digital%20Marketing-v2.0.pptx) and [PDF](courseware/Claude%20Cowork%20for%20Digital%20Marketing-v2.0.pdf).
-- Learner Guide: [DOCX](courseware/LG-Claude%20Cowork%20for%20Digital%20Marketing.docx), [PDF](courseware/LG-Claude%20Cowork%20for%20Digital%20Marketing.pdf) and [Markdown](courseware/LG-Claude%20Cowork%20for%20Digital%20Marketing.md), including detailed procedures and verification checks.
-- Lesson Plan: [DOCX](courseware/LP-Claude%20Cowork%20for%20Digital%20Marketing.docx) and [PDF](courseware/LP-Claude%20Cowork%20for%20Digital%20Marketing.pdf), with the daily schedule and slide references.
-- Fourteen self-contained activity folders with synthetic inputs and original assets.
+## Repository structure
 
-Download a complete activity folder before starting. Preserve raw input files and save your work separately. Generated content and calculations need your review; a mock trace does not prove a live connector worked.
+| Item | Files |
+|---|---|
+| Slide deck | [PPTX](courseware/Claude%20AI%20for%20Digital%20Marketing-v3.0.pptx) · [PDF](courseware/Claude%20AI%20for%20Digital%20Marketing-v3.0.pdf) |
+| Lesson Plan | [DOCX](courseware/LP-Claude%20AI%20for%20Digital%20Marketing-v3.0.docx) · [PDF](courseware/LP-Claude%20AI%20for%20Digital%20Marketing-v3.0.pdf) |
+| Learner Guide | [DOCX](courseware/LG-Claude%20AI%20for%20Digital%20Marketing-v3.0.docx) · [PDF](courseware/LG-Claude%20AI%20for%20Digital%20Marketing-v3.0.pdf) · [Markdown](courseware/LG-Claude%20AI%20for%20Digital%20Marketing-v3.0.md) |
+| Labs | [labs/](labs/) — each lab has a `.md` for Claude to read and a `.pdf` twin for you |
+| Prompts page and reference site | [docs/](docs/) (published with GitHub Pages) |
 
-This public package excludes reference ebooks, credentials, build tooling and QA renders.
+Current version: **v3.0**. All business data in the labs is fictitious.
+
+## Distribution boundary
+
+This repository publishes the learner and trainer courseware only. Private source references and build tooling are not published. Never commit API keys, passwords, tokens or real client data.
 
 ## Provider
 
-Tertiary Infotech Academy Pte Ltd — [Tertiary Courses Singapore](https://www.tertiarycourses.com.sg/).
+Course and materials by **Tertiary Infotech Academy Pte Ltd** (UEN 201200696W) — [www.tertiarycourses.com.sg](https://www.tertiarycourses.com.sg/) · enquiry@tertiaryinfotech.com · +65 6100 0613.
